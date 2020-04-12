@@ -1,0 +1,22 @@
+C:\Users\maryam\source\repos\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.exe
+C:\Users\maryam\source\repos\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.deps.json
+C:\Users\maryam\source\repos\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.runtimeconfig.json
+C:\Users\maryam\source\repos\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.runtimeconfig.dev.json
+C:\Users\maryam\source\repos\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.dll
+C:\Users\maryam\source\repos\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.pdb
+C:\Users\maryam\source\repos\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.csprojAssemblyReference.cache
+C:\Users\maryam\source\repos\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.AssemblyInfoInputs.cache
+C:\Users\maryam\source\repos\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.AssemblyInfo.cs
+C:\Users\maryam\source\repos\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.dll
+C:\Users\maryam\source\repos\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.pdb
+D:\ITI\Advanced C#\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.exe
+D:\ITI\Advanced C#\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.deps.json
+D:\ITI\Advanced C#\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.runtimeconfig.json
+D:\ITI\Advanced C#\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.runtimeconfig.dev.json
+D:\ITI\Advanced C#\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.dll
+D:\ITI\Advanced C#\02 Where\02 Where\bin\Debug\netcoreapp3.0\02 Where.pdb
+D:\ITI\Advanced C#\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.csprojAssemblyReference.cache
+D:\ITI\Advanced C#\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.AssemblyInfoInputs.cache
+D:\ITI\Advanced C#\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.AssemblyInfo.cs
+D:\ITI\Advanced C#\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.dll
+D:\ITI\Advanced C#\02 Where\02 Where\obj\Debug\netcoreapp3.0\02 Where.pdb
